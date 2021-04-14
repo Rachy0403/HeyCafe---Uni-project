@@ -1,0 +1,2 @@
+# HeyCafe---Uni-project
+This is one of my project in School, building a business using digital elements - tech products. HeyCafe is a communty where users can find, rate, comment and share their experiences with different cafe shop with abundant concepts. CPS of HeyCafe is ability for updating how many slots there are immediate in the cafe shop and let customers book for their own with a appealing vouchers 
